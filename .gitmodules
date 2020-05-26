@@ -1,0 +1,7 @@
+[submodule "hugo-theme-chunky-poster"]
+	path = hugo-theme-chunky-poster
+	url = https://github.com/puresyntax71/hugo-theme-chunky-poster
+[submodule "public"]
+	path = public
+	url = https://github.com/Isurusachitha/Isurusachitha.github.io.git
+	branch = master
